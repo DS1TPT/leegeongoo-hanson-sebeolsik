@@ -1,6 +1,7 @@
 // additional_layouts.js 파일의 첫(?) 부분
 additional_layouts.push({KE: 'Ko', type_name: 'LGG3-OH-R', full_name: '이건구 한 손 세벌식 오른손', layout: K3_LGG_OH_r, capslock_layout: K3_LGG_OH_r_capslock_layout, hangeul_combination_table: K3_LGG_OH_combination_table, link: 'https://ds1tpt.tistory.com/32'});
 additional_layouts.push({KE: 'Ko', type_name: 'LGG3-OH-L', full_name: '이건구 한 손 세벌식 왼손', layout: K3_LGG_OH_l, capslock_layout: K3_LGG_OH_l_capslock_layout, hangeul_combination_table: K3_LGG_OH_combination_table, link: 'https://ds1tpt.tistory.com/32'});
+additional_layouts.push({KE: 'Ko', type_name: 'LGG3-OH-OHK', full_name: '이건구 한 손 세벌식 한손글쇠판용', layout: K3_LGG_OH_ohk, capslock_layout: K3_LGG_OH_ohk_capslock_layout, hangeul_combination_table: K3_LGG_OH_combination_table, link: 'https://ds1tpt.tistory.com/32'});
 
     // 배열 정보
 
