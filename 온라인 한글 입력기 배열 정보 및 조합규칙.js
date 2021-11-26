@@ -468,7 +468,7 @@ additional_layouts.push({KE: 'Ko', type_name: 'LGG3-OH-OHK', full_name: '이건�
 			[0x1107,0x0000], /* 0x64 d: choseong bieub ㅂ */
 			[0x1105,0x0000], /* 0x65 e: choseong rieul ㄹ */
 			[0x110B,0x0000], /* 0x66 f: choseong ieung ㅇ */
-			[0x1100,0x0000], /* 0x67 g: choseong giyeok ㄱ */
+			[0x1100,0x0000], /* 0x67 g: choseong giyeog ㄱ */
 			[0x0000,0x0000], /* 0x68 h: null */
 			[0x0000,0x0000], /* 0x69 i: null */
 			[0x0000,0x0000], /* 0x6A j: null */
