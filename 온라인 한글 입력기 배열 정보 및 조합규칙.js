@@ -327,7 +327,7 @@ additional_layouts.push({KE: 'Ko', type_name: 'LGG3-OH-L', full_name: '이건구
 		[0x00D7,0x0000], /* 0x39 9: multiplication sign × */
 		[0x003B,0x0000], /* 0x3A colon: semicolon ; */
 		[0x003A,0x0000], /* 0x3B semicolon: colon : */
-		[0x1172,0x0000], /* 0x3C less: jungseong yu ㅠ */
+		[0x1102,0x0000], /* 0x3C less: choseong nieun ㄴ */
 		[0x002B,0x0000], /* 0x3D equal: plus sign + */
 		[0x300D,0x0000], /* 0x3E greater: right corner bracket 」 */
 		[0x002F,0x0000], /* 0x3F question: slash / */
